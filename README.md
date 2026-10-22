@@ -37,9 +37,9 @@ If the Pages screen offers GitHub Actions as the only suggested source, switch t
 
 ## Before you share the site
 
-`worship@example.com` is a **placeholder**. The domain `example.com` is reserved, and mail sent there is not delivered. The Get involved and Prayer forms only open the visitor’s own email app. They do not store a message, and they do not accept donations or payments.
+`247worshipnhealing@gmail.com` is a **placeholder**. The domain `example.com` is reserved, and mail sent there is not delivered. The Get involved and Prayer forms only open the visitor’s own email app. They do not store a message, and they do not accept donations or payments.
 
-Search the project for `worship@example.com` and replace every occurrence with an inbox you control:
+Search the project for `247worshipnhealing@gmail.com` and replace every occurrence with an inbox you control:
 
 - `index.html` — the `data-contact-email` attribute on `<html>`, which the forms use
 - `index.html` — the visible `mailto:` links in Get involved, Prayer requests, and Contact
