@@ -37,14 +37,7 @@ If the Pages screen offers GitHub Actions as the only suggested source, switch t
 
 ## Before you share the site
 
-`247worshipnhealing@gmail.com` is a **placeholder**. The domain `example.com` is reserved, and mail sent there is not delivered. The Get involved and Prayer forms only open the visitor’s own email app. They do not store a message, and they do not accept donations or payments.
-
-Search the project for `247worshipnhealing@gmail.com` and replace every occurrence with an inbox you control:
-
-- `index.html` — the `data-contact-email` attribute on `<html>`, which the forms use
-- `index.html` — the visible `mailto:` links in Get involved, Prayer requests, and Contact
-
-Leave the word **Placeholder** visible until that address is real, then remove those badges and the sentences that say the inbox is not working yet.
+`247worshipnhealing@gmail.com` is a working email and is available. The Get involved and Prayer forms only open the visitor’s own email app. They do not store a message, and they do not accept donations or payments.
 
 These details are intentionally unset. Do not invent them:
 

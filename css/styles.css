@@ -760,21 +760,6 @@ textarea[aria-invalid="true"] {
   margin: 0.9rem 0 0;
 }
 
-.badge {
-  display: inline-block;
-  margin-left: 0.35rem;
-  padding: 0.1rem 0.45rem;
-  border: 1px solid currentColor;
-  border-radius: 999px;
-  color: var(--wine-deep);
-  font-size: 0.68rem;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-  line-height: 1.4;
-  text-transform: uppercase;
-  vertical-align: 0.15em;
-}
-
 .facts {
   display: grid;
   gap: 1px;
