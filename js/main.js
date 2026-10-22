@@ -193,12 +193,12 @@
         "Note:",
         valueOf(interestForm, "message") || "(none)",
         "",
-        "Sent from the 24-7 Worship website. The receiving address is a placeholder until it is replaced."
+        "Sent from the 24-7 Worship website."
       ].join("\r\n");
 
       window.location.href = mailHref("24-7 Worship — interest in getting involved", body);
       if (status) {
-        status.textContent = "Your email app should open with this note addressed to " + contactEmail + ". That address is a placeholder and is not a working inbox yet. If no app opens, copy the address and write from your own mail.";
+        status.textContent = "Your email app should open with this note addressed to " + contactEmail + ". Email is available. If no app opens, copy the address and write from your own mail.";
       }
     });
   }
@@ -259,12 +259,12 @@
         valueOf(prayerForm, "request"),
         "",
         "The sender confirmed this request may be emailed and should not be published on the website.",
-        "Sent from the 24-7 Worship website. The receiving address is a placeholder until it is replaced."
+        "Sent from the 24-7 Worship website."
       ].join("\r\n");
 
       window.location.href = mailHref("24-7 Worship — prayer request", body);
       if (status) {
-        status.textContent = "Your email app should open with this request addressed to " + contactEmail + ". That address is a placeholder and is not a working inbox yet. The request is not published on this page. If no app opens, copy the address and write from your own mail.";
+        status.textContent = "Your email app should open with this request addressed to " + contactEmail + ". Email is available. The request is not published on this page. If no app opens, copy the address and write from your own mail.";
       }
     });
   }
